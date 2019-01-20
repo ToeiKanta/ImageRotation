@@ -1,0 +1,10 @@
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\bin\Debug\ImageRotation.exe.config
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\bin\Debug\ImageRotation.exe
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\bin\Debug\ImageRotation.pdb
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\obj\Debug\ImageRotation.csprojAssemblyReference.cache
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\obj\Debug\ImageRotation.Properties.Resources.resources
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\obj\Debug\ImageRotation.csproj.GenerateResource.cache
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\obj\Debug\ImageRotation.csproj.CoreCompileInputs.cache
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\obj\Debug\ImageRotation.exe
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\obj\Debug\ImageRotation.pdb
+C:\Users\ToeiK\Documents\gitlab\ImageRotation\ImageRotation\ImageRotation\obj\Debug\ImageRotation.ImageRotation.resources
