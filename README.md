@@ -18,3 +18,5 @@
 ## ผลลัพธ์หลังกด Save
 
 ![](https://i.imgur.com/fe8iUq4.png)
+
+*ไม่รองรับ ไฟล์ภาพ .webp*
